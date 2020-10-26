@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-1. Python 101 - Variables Assignment, Math Ops, Precedence, and Print_Get - Skeleton",
+      "appliesTo": "1. Python 101 - Variables Assignment, Math Ops, Precedence, and Print_Get - Skeleton.ipynb",
+      "type": "launch"
+    }
+  ]
+}
