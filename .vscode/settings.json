@@ -1,5 +1,5 @@
 {
     "github.gitCommand": "C:\\Users\\Name\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
-    "python.pythonPath": "C:\\Users\\Name\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
-    "python.languageServer": "Pylance"
+    "python.languageServer": "Pylance",
+    "python.pythonPath": "C:\\Users\\Name\\AppData\\Local\\Programs\\Python\\Python37\\python.exe"
 }
